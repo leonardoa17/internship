@@ -15,7 +15,7 @@ L'analisi è stata eseguita su campioni reali di:
 I report completi, i PCAP di rete, i grafici dei processi e i file estratti sono disponibili per il download qui:  
 [Archivio Google Drive](https://drive.google.com/file/d/1X0GIs_65M0Yuy5Qa5PMWjwGyyGsTmTS8/view)
 
-La relazione completa del tirocinio è presente nel file `stage.pdf`.
+La relazione completa del tirocinio è presente nel file `report_it.pdf`.
 
 <details>
 <summary><b>English Version</b></summary>
@@ -37,6 +37,6 @@ The analysis was performed on real samples of:
 Complete analysis results, network PCAPs, process graphs, and generated reports can be downloaded here:  
 [Google Drive Archive](https://drive.google.com/file/d/1X0GIs_65M0Yuy5Qa5PMWjwGyyGsTmTS8/view)
 
-The full internship documentation is available in `stage.pdf`.
+The full internship documentation is available in `report_eng.pdf`.
 
 </details>
